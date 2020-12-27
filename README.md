@@ -1,2 +1,2 @@
 # Web Programlama Proje Ödevi
-# Yemek Tarifi sitesi yapılacaktır.
+ Yemek Tarifi sitesi yapılacaktır.
