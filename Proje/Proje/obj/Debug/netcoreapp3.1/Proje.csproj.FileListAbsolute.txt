@@ -1,0 +1,1135 @@
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.StaticWebAssets.xml
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csprojAssemblyReference.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.Manifest.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.xml
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proje.styles.css
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.input.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.output.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorCoreGenerate.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cache
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CopyComplete
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yesim\source\repos\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.StaticWebAssets.xml
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csprojAssemblyReference.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.Manifest.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.xml
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proje.styles.css
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.input.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.output.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorCoreGenerate.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CopyComplete
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Create.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Delete.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Details.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Edit.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Create.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Delete.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Details.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Edit.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Create.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Delete.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Details.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Edit.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Create.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Delete.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Details.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Edit.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\AnaYemekler\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Tatlilar\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Corbalar\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Salatalar\Index.cshtml.g.cs
+C:\Users\busra\Downloads\web-programlama-main (1)\web-programlama-main\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\AnaYemekler\AnaYemek.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.StaticWebAssets.xml
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csprojAssemblyReference.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.input.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.output.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorCoreGenerate.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\AnaYemekler\AnaYemek.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\AnaYemekler\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Corbalar\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Create.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Delete.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Details.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Edit.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Create.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Delete.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Details.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Edit.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\PratikYemekler\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Salatalar\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Tatlilar\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Create.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Delete.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Details.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Edit.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Create.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Delete.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Details.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Edit.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Index.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CopyComplete
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.Manifest.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.xml
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.GenerateResource.cache
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\en\Proje.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Proje.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Tatlilar.Index.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Tatlilar.Index.tr.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\en\Proje.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\tr\Proje.resources.dll
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Salatalar.Index.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Salatalar.Index.tr.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.PratikYemekler.Index.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.PratikYemekler.Index.tr.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Malzeme.Index.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Malzeme.Intex.tr.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.AnaYemekler.Index.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.AnaYemekler.Index.tr.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Corbalar.Index.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Corbalar.Index.tr.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Home.Index.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Home.Index.tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.StaticWebAssets.xml
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\en\Proje.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Proje.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csprojAssemblyReference.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Kategori.index-en.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Kategori.index-tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.AnaYemekler.Index.en.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.AnaYemekler.Index.tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Corbalar.Index.en.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Corbalar.Index.tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Home.Index.en.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Home.Index.tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Malzeme.Index.en.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Malzeme.Intex.tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.PratikYemekler.Index.en.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.PratikYemekler.Index.tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Salatalar.Index.en.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Salatalar.Index.tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Tatlilar.Index.en.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Tatlilar.Index.tr.resources
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.GenerateResource.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\en\Proje.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\tr\Proje.resources.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.Manifest.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.xml
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proje.styles.css
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.input.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.output.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorCoreGenerate.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\AnaYemekler\AnaYemek.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\AnaYemekler\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Corbalar\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Create.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Delete.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Details.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Edit.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Create.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Delete.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Details.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Edit.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\PratikYemekler\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Salatalar\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Tatlilar\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Create.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Delete.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Details.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Edit.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Create.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Delete.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Details.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Edit.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Index.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CopyComplete
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Corbalar\Corba.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\PratikYemekler\PratikYemek.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Salatalar\Salata.cshtml.g.cs
+C:\Users\busra\Downloads\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Tatlilar\Tatli.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Corbalar\Corba.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\PratikYemekler\PratikYemek.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Salatalar\Salata.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Tatlilar\Tatli.cshtml.g.cs
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Shared._Layout.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Shared._Layout.tr.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Kategori.index.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Kategori.index.tr.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Shared._LoginPartial.en.resources
+C:\Users\merve keçeli\Desktop\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Shared._LoginPartial.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.StaticWebAssets.xml
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\en\Proje.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Proje.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csprojAssemblyReference.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.AnaYemekler.Index.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.AnaYemekler.Index.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Corbalar.Index.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Corbalar.Index.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Home.Index.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Home.Index.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Kategori.index.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Kategori.index.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Malzeme.Index.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Malzeme.Intex.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.PratikYemekler.Index.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.PratikYemekler.Index.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Salatalar.Index.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Salatalar.Index.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Shared._Layout.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Shared._Layout.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Shared._LoginPartial.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Shared._LoginPartial.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Tatlilar.Index.en.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.Tatlilar.Index.tr.resources
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.GenerateResource.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorAssemblyInfo.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\en\Proje.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\tr\Proje.resources.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.Manifest.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\staticwebassets\Proje.StaticWebAssets.xml
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proje.styles.css
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.input.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.TagHelpers.output.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorCoreGenerate.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\AnaYemekler\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Corbalar\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Create.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Delete.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Details.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Edit.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Kategori\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Create.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Delete.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Details.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Edit.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Malzeme\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\PratikYemekler\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Salatalar\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Tatlilar\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Create.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Delete.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Details.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Edit.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\YemekMalzeme\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Create.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Delete.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Details.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Edit.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Yemek\Index.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.RazorTargetAssemblyInfo.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Views.pdb
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CopyComplete
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\AnaYemekler\Detay.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Corbalar\Detay.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\PratikYemekler\Detay.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Salatalar\Detay.cshtml.g.cs
+C:\Users\busra\Desktop\Proje\Proje\Proje\obj\Debug\netcoreapp3.1\Razor\Views\Tatlilar\Detay.cshtml.g.cs
